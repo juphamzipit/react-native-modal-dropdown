@@ -21,9 +21,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 
-import {
-  ListView
-} from 'deprecated-react-native-listview'
+import ListView from 'deprecated-react-native-listview'
 
 import PropTypes from 'prop-types';
 
